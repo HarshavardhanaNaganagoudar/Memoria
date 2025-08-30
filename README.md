@@ -121,7 +121,7 @@ Memoria is designed to evolve with the needs of patients, families, and caregive
 - 📊 **Advanced Caregiver Dashboard** – Provide a clear view of trends, strengths, and areas of concern  
 - 🧠 **Model Choice Toggle** – Option to switch between GPT-OSS:20B and lighter local models for different devices  
 - 🔔 **Smart Reminders** – Gentle nudges to log memories or take a test at user-friendly times  
-- 🌍 **Multi-language Support** – Localized experience for global accessibility (starting with Spanish, German, Japanese)  
+- 🌍 **Multi-language Support** – Localized experience for global accessibility  
 - 🎨 **Customizable Zen Stone Themes** – Different calming visuals to personalize progress tracking  
 - 🪄 **Voice Interaction Mode** – Speak your answers and receive AI feedback in natural conversation  
 - 📤 **Secure Export** – Share progress reports or AI feedback summaries with doctors or caregivers in PDF format  
@@ -153,4 +153,5 @@ Under the following terms:
 - 🚫 **NonCommercial** — You may not use the material for commercial purposes.
 
 🔗 [View the full license terms here](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
